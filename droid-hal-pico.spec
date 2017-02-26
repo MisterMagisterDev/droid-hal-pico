@@ -1,4 +1,5 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
+
 %define device pico
 %define vendor htc
 
